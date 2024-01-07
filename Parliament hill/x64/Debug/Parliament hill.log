@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\pasco\source\repos\Parliament hill\Parliament hill\header.h(47,16): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pasco\source\repos\Parliament hill\Parliament hill\header.h(48,18): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pasco\source\repos\Parliament hill\Parliament hill\header.h(77,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Parliament hill.vcxproj -> C:\Users\pasco\source\repos\Parliament hill\x64\Debug\Parliament hill.exe
